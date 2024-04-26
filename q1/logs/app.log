@@ -1,0 +1,823 @@
+26 Apr 2024 20:50:00 DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+26 Apr 2024 20:50:00 DEBUG: Parsing relationship: /_rels/.rels
+26 Apr 2024 20:50:00 TRACE: Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+26 Apr 2024 20:50:00 TRACE: Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+26 Apr 2024 20:50:00 TRACE: Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+26 Apr 2024 20:50:00 TRACE: Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+26 Apr 2024 20:50:00 TRACE: Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+26 Apr 2024 20:50:00 TRACE: Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+26 Apr 2024 20:50:00 TRACE: Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+26 Apr 2024 20:50:00 TRACE: Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+26 Apr 2024 20:50:00 TRACE: Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+26 Apr 2024 20:50:00 TRACE: Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+26 Apr 2024 20:50:00 TRACE: Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+26 Apr 2024 20:50:00 TRACE: Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+26 Apr 2024 20:50:00 TRACE: Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+26 Apr 2024 20:50:00 TRACE: Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+26 Apr 2024 20:50:00 TRACE: Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+26 Apr 2024 20:50:00 TRACE: Resolving type for handle themefd26doctype
+26 Apr 2024 20:50:00 TRACE: Resolving type for handle stylesheet5d8bdoctype
+26 Apr 2024 20:50:00 TRACE: Resolving type for handle ctstylesheet4257type
+26 Apr 2024 20:50:00 TRACE: Resolving type for handle ctfonts6623type
+26 Apr 2024 20:50:00 TRACE: Resolving type for handle ctfont14d8type
+26 Apr 2024 20:50:00 TRACE: Resolving type for handle ctfills2c6ftype
+26 Apr 2024 20:50:00 TRACE: Resolving type for handle ctfill550ctype
+26 Apr 2024 20:50:00 TRACE: Resolving type for handle ctborders0d66type
+26 Apr 2024 20:50:00 TRACE: Resolving type for handle ctborderf935type
+26 Apr 2024 20:50:00 TRACE: Resolving type for handle ctcellxfs1322type
+26 Apr 2024 20:50:00 TRACE: Resolving type for handle ctxf97f7type
+26 Apr 2024 20:50:00 TRACE: Resolving type for handle ctcellstylexfsa81ftype
+26 Apr 2024 20:50:00 TRACE: Resolving type for handle ctdxfsb26atype
+26 Apr 2024 20:50:00 TRACE: Resolving type for handle cttablestyles872ftype
+26 Apr 2024 20:50:00 TRACE: Resolving type for handle sstf81fdoctype
+26 Apr 2024 20:50:00 TRACE: Resolving type for handle ctsst44f3type
+26 Apr 2024 20:50:00 TRACE: Resolving type for handle ctrsta472type
+26 Apr 2024 20:50:00 TRACE: Resolving type for handle workbookec17doctype
+26 Apr 2024 20:50:00 TRACE: Resolving type for handle ctworkbook83c3type
+26 Apr 2024 20:50:00 TRACE: Resolving type for handle ctsheets49fdtype
+26 Apr 2024 20:50:00 TRACE: Resolving type for handle ctsheet4dbetype
+26 Apr 2024 20:50:00 TRACE: Resolving type for handle strelationshipid1e94type
+26 Apr 2024 20:50:00 TRACE: Resolving type for handle worksheetf539doctype
+26 Apr 2024 20:50:00 TRACE: Resolving type for handle ctworksheet530dtype
+26 Apr 2024 20:50:00 TRACE: Resolving type for handle ctcols627ctype
+26 Apr 2024 20:50:00 TRACE: Resolving type for handle ctsheetdata8408type
+26 Apr 2024 20:50:00 TRACE: Resolving type for handle ctrowdd39type
+26 Apr 2024 20:50:00 TRACE: Resolving type for handle ctcell842btype
+26 Apr 2024 20:50:00 TRACE: Resolving type for handle stcellrefe4e0type
+26 Apr 2024 20:50:08 TRACE: Resolving type for handle stcelltypebf95type
+26 Apr 2024 20:50:08 TRACE: Resolving type for handle stxstringf179type
+26 Apr 2024 20:50:13 INFO : SuccessFull
+26 Apr 2024 21:00:41 DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+26 Apr 2024 21:00:41 DEBUG: Parsing relationship: /_rels/.rels
+26 Apr 2024 21:00:41 TRACE: Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+26 Apr 2024 21:00:41 TRACE: Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+26 Apr 2024 21:00:41 TRACE: Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+26 Apr 2024 21:00:41 TRACE: Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+26 Apr 2024 21:00:41 TRACE: Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+26 Apr 2024 21:00:41 TRACE: Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+26 Apr 2024 21:00:41 TRACE: Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+26 Apr 2024 21:00:41 TRACE: Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+26 Apr 2024 21:00:41 TRACE: Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+26 Apr 2024 21:00:41 TRACE: Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+26 Apr 2024 21:00:41 TRACE: Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+26 Apr 2024 21:00:41 TRACE: Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+26 Apr 2024 21:00:41 TRACE: Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+26 Apr 2024 21:00:41 TRACE: Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+26 Apr 2024 21:00:41 TRACE: Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+26 Apr 2024 21:00:41 TRACE: Resolving type for handle themefd26doctype
+26 Apr 2024 21:00:41 TRACE: Resolving type for handle stylesheet5d8bdoctype
+26 Apr 2024 21:00:41 TRACE: Resolving type for handle ctstylesheet4257type
+26 Apr 2024 21:00:41 TRACE: Resolving type for handle ctfonts6623type
+26 Apr 2024 21:00:41 TRACE: Resolving type for handle ctfont14d8type
+26 Apr 2024 21:00:41 TRACE: Resolving type for handle ctfills2c6ftype
+26 Apr 2024 21:00:41 TRACE: Resolving type for handle ctfill550ctype
+26 Apr 2024 21:00:41 TRACE: Resolving type for handle ctborders0d66type
+26 Apr 2024 21:00:41 TRACE: Resolving type for handle ctborderf935type
+26 Apr 2024 21:00:41 TRACE: Resolving type for handle ctcellxfs1322type
+26 Apr 2024 21:00:41 TRACE: Resolving type for handle ctxf97f7type
+26 Apr 2024 21:00:41 TRACE: Resolving type for handle ctcellstylexfsa81ftype
+26 Apr 2024 21:00:41 TRACE: Resolving type for handle ctdxfsb26atype
+26 Apr 2024 21:00:41 TRACE: Resolving type for handle cttablestyles872ftype
+26 Apr 2024 21:00:41 TRACE: Resolving type for handle sstf81fdoctype
+26 Apr 2024 21:00:41 TRACE: Resolving type for handle ctsst44f3type
+26 Apr 2024 21:00:41 TRACE: Resolving type for handle ctrsta472type
+26 Apr 2024 21:00:41 TRACE: Resolving type for handle workbookec17doctype
+26 Apr 2024 21:00:41 TRACE: Resolving type for handle ctworkbook83c3type
+26 Apr 2024 21:00:41 TRACE: Resolving type for handle ctsheets49fdtype
+26 Apr 2024 21:00:41 TRACE: Resolving type for handle ctsheet4dbetype
+26 Apr 2024 21:00:41 TRACE: Resolving type for handle strelationshipid1e94type
+26 Apr 2024 21:00:41 TRACE: Resolving type for handle worksheetf539doctype
+26 Apr 2024 21:00:41 TRACE: Resolving type for handle ctworksheet530dtype
+26 Apr 2024 21:00:41 TRACE: Resolving type for handle ctcols627ctype
+26 Apr 2024 21:00:41 TRACE: Resolving type for handle ctsheetdata8408type
+26 Apr 2024 21:00:41 TRACE: Resolving type for handle ctrowdd39type
+26 Apr 2024 21:00:41 TRACE: Resolving type for handle ctcell842btype
+26 Apr 2024 21:00:41 TRACE: Resolving type for handle stcellrefe4e0type
+26 Apr 2024 21:04:43 DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+26 Apr 2024 21:04:43 DEBUG: Parsing relationship: /_rels/.rels
+26 Apr 2024 21:04:43 TRACE: Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+26 Apr 2024 21:04:43 TRACE: Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+26 Apr 2024 21:04:43 TRACE: Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+26 Apr 2024 21:04:43 TRACE: Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+26 Apr 2024 21:04:43 TRACE: Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+26 Apr 2024 21:04:43 TRACE: Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+26 Apr 2024 21:04:43 TRACE: Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+26 Apr 2024 21:04:43 TRACE: Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+26 Apr 2024 21:04:43 TRACE: Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+26 Apr 2024 21:04:43 TRACE: Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+26 Apr 2024 21:04:43 TRACE: Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+26 Apr 2024 21:04:43 TRACE: Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+26 Apr 2024 21:04:43 TRACE: Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+26 Apr 2024 21:04:43 TRACE: Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+26 Apr 2024 21:04:43 TRACE: Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+26 Apr 2024 21:04:43 TRACE: Resolving type for handle themefd26doctype
+26 Apr 2024 21:04:43 TRACE: Resolving type for handle stylesheet5d8bdoctype
+26 Apr 2024 21:04:43 TRACE: Resolving type for handle ctstylesheet4257type
+26 Apr 2024 21:04:43 TRACE: Resolving type for handle ctfonts6623type
+26 Apr 2024 21:04:43 TRACE: Resolving type for handle ctfont14d8type
+26 Apr 2024 21:04:43 TRACE: Resolving type for handle ctfills2c6ftype
+26 Apr 2024 21:04:43 TRACE: Resolving type for handle ctfill550ctype
+26 Apr 2024 21:04:43 TRACE: Resolving type for handle ctborders0d66type
+26 Apr 2024 21:04:43 TRACE: Resolving type for handle ctborderf935type
+26 Apr 2024 21:04:43 TRACE: Resolving type for handle ctcellxfs1322type
+26 Apr 2024 21:04:43 TRACE: Resolving type for handle ctxf97f7type
+26 Apr 2024 21:04:43 TRACE: Resolving type for handle ctcellstylexfsa81ftype
+26 Apr 2024 21:04:43 TRACE: Resolving type for handle ctdxfsb26atype
+26 Apr 2024 21:04:43 TRACE: Resolving type for handle cttablestyles872ftype
+26 Apr 2024 21:04:43 TRACE: Resolving type for handle sstf81fdoctype
+26 Apr 2024 21:04:43 TRACE: Resolving type for handle ctsst44f3type
+26 Apr 2024 21:04:43 TRACE: Resolving type for handle ctrsta472type
+26 Apr 2024 21:04:43 TRACE: Resolving type for handle workbookec17doctype
+26 Apr 2024 21:04:43 TRACE: Resolving type for handle ctworkbook83c3type
+26 Apr 2024 21:04:44 TRACE: Resolving type for handle ctsheets49fdtype
+26 Apr 2024 21:04:44 TRACE: Resolving type for handle ctsheet4dbetype
+26 Apr 2024 21:04:44 TRACE: Resolving type for handle strelationshipid1e94type
+26 Apr 2024 21:04:44 TRACE: Resolving type for handle worksheetf539doctype
+26 Apr 2024 21:04:44 TRACE: Resolving type for handle ctworksheet530dtype
+26 Apr 2024 21:04:44 TRACE: Resolving type for handle ctcols627ctype
+26 Apr 2024 21:04:44 TRACE: Resolving type for handle ctsheetdata8408type
+26 Apr 2024 21:04:44 TRACE: Resolving type for handle ctrowdd39type
+26 Apr 2024 21:04:44 TRACE: Resolving type for handle ctcell842btype
+26 Apr 2024 21:04:44 TRACE: Resolving type for handle stcellrefe4e0type
+26 Apr 2024 21:06:13 DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+26 Apr 2024 21:06:13 DEBUG: Parsing relationship: /_rels/.rels
+26 Apr 2024 21:06:13 TRACE: Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+26 Apr 2024 21:06:13 TRACE: Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+26 Apr 2024 21:06:13 TRACE: Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+26 Apr 2024 21:06:13 TRACE: Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+26 Apr 2024 21:06:13 TRACE: Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+26 Apr 2024 21:06:13 TRACE: Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+26 Apr 2024 21:06:13 TRACE: Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+26 Apr 2024 21:06:13 TRACE: Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+26 Apr 2024 21:06:13 TRACE: Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+26 Apr 2024 21:06:13 TRACE: Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+26 Apr 2024 21:06:13 TRACE: Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+26 Apr 2024 21:06:13 TRACE: Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+26 Apr 2024 21:06:13 TRACE: Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+26 Apr 2024 21:06:13 TRACE: Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+26 Apr 2024 21:06:13 TRACE: Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+26 Apr 2024 21:06:13 TRACE: Resolving type for handle themefd26doctype
+26 Apr 2024 21:06:13 TRACE: Resolving type for handle stylesheet5d8bdoctype
+26 Apr 2024 21:06:13 TRACE: Resolving type for handle ctstylesheet4257type
+26 Apr 2024 21:06:13 TRACE: Resolving type for handle ctfonts6623type
+26 Apr 2024 21:06:13 TRACE: Resolving type for handle ctfont14d8type
+26 Apr 2024 21:06:13 TRACE: Resolving type for handle ctfills2c6ftype
+26 Apr 2024 21:06:13 TRACE: Resolving type for handle ctfill550ctype
+26 Apr 2024 21:06:13 TRACE: Resolving type for handle ctborders0d66type
+26 Apr 2024 21:06:13 TRACE: Resolving type for handle ctborderf935type
+26 Apr 2024 21:06:13 TRACE: Resolving type for handle ctcellxfs1322type
+26 Apr 2024 21:06:13 TRACE: Resolving type for handle ctxf97f7type
+26 Apr 2024 21:06:13 TRACE: Resolving type for handle ctcellstylexfsa81ftype
+26 Apr 2024 21:06:13 TRACE: Resolving type for handle ctdxfsb26atype
+26 Apr 2024 21:06:13 TRACE: Resolving type for handle cttablestyles872ftype
+26 Apr 2024 21:06:13 TRACE: Resolving type for handle sstf81fdoctype
+26 Apr 2024 21:06:13 TRACE: Resolving type for handle ctsst44f3type
+26 Apr 2024 21:06:13 TRACE: Resolving type for handle ctrsta472type
+26 Apr 2024 21:06:13 TRACE: Resolving type for handle workbookec17doctype
+26 Apr 2024 21:06:13 TRACE: Resolving type for handle ctworkbook83c3type
+26 Apr 2024 21:06:13 TRACE: Resolving type for handle ctsheets49fdtype
+26 Apr 2024 21:06:13 TRACE: Resolving type for handle ctsheet4dbetype
+26 Apr 2024 21:06:13 TRACE: Resolving type for handle strelationshipid1e94type
+26 Apr 2024 21:06:13 TRACE: Resolving type for handle worksheetf539doctype
+26 Apr 2024 21:06:13 TRACE: Resolving type for handle ctworksheet530dtype
+26 Apr 2024 21:06:13 TRACE: Resolving type for handle ctcols627ctype
+26 Apr 2024 21:06:13 TRACE: Resolving type for handle ctsheetdata8408type
+26 Apr 2024 21:06:13 TRACE: Resolving type for handle ctrowdd39type
+26 Apr 2024 21:06:13 TRACE: Resolving type for handle ctcell842btype
+26 Apr 2024 21:06:13 TRACE: Resolving type for handle stcellrefe4e0type
+26 Apr 2024 21:06:26 WARN : No Element Found
+26 Apr 2024 21:06:26 INFO : This the item is added to the cart
+26 Apr 2024 21:09:40 DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+26 Apr 2024 21:09:40 DEBUG: Parsing relationship: /_rels/.rels
+26 Apr 2024 21:09:40 TRACE: Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+26 Apr 2024 21:09:40 TRACE: Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+26 Apr 2024 21:09:40 TRACE: Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+26 Apr 2024 21:09:40 TRACE: Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+26 Apr 2024 21:09:40 TRACE: Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+26 Apr 2024 21:09:40 TRACE: Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+26 Apr 2024 21:09:40 TRACE: Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+26 Apr 2024 21:09:40 TRACE: Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+26 Apr 2024 21:09:40 TRACE: Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+26 Apr 2024 21:09:40 TRACE: Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+26 Apr 2024 21:09:40 TRACE: Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+26 Apr 2024 21:09:40 TRACE: Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+26 Apr 2024 21:09:40 TRACE: Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+26 Apr 2024 21:09:40 TRACE: Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+26 Apr 2024 21:09:40 TRACE: Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+26 Apr 2024 21:09:40 TRACE: Resolving type for handle themefd26doctype
+26 Apr 2024 21:09:40 TRACE: Resolving type for handle stylesheet5d8bdoctype
+26 Apr 2024 21:09:40 TRACE: Resolving type for handle ctstylesheet4257type
+26 Apr 2024 21:09:40 TRACE: Resolving type for handle ctfonts6623type
+26 Apr 2024 21:09:40 TRACE: Resolving type for handle ctfont14d8type
+26 Apr 2024 21:09:40 TRACE: Resolving type for handle ctfills2c6ftype
+26 Apr 2024 21:09:40 TRACE: Resolving type for handle ctfill550ctype
+26 Apr 2024 21:09:40 TRACE: Resolving type for handle ctborders0d66type
+26 Apr 2024 21:09:40 TRACE: Resolving type for handle ctborderf935type
+26 Apr 2024 21:09:40 TRACE: Resolving type for handle ctcellxfs1322type
+26 Apr 2024 21:09:40 TRACE: Resolving type for handle ctxf97f7type
+26 Apr 2024 21:09:40 TRACE: Resolving type for handle ctcellstylexfsa81ftype
+26 Apr 2024 21:09:40 TRACE: Resolving type for handle ctdxfsb26atype
+26 Apr 2024 21:09:40 TRACE: Resolving type for handle cttablestyles872ftype
+26 Apr 2024 21:09:40 TRACE: Resolving type for handle sstf81fdoctype
+26 Apr 2024 21:09:40 TRACE: Resolving type for handle ctsst44f3type
+26 Apr 2024 21:09:40 TRACE: Resolving type for handle ctrsta472type
+26 Apr 2024 21:09:41 TRACE: Resolving type for handle workbookec17doctype
+26 Apr 2024 21:09:41 TRACE: Resolving type for handle ctworkbook83c3type
+26 Apr 2024 21:09:41 TRACE: Resolving type for handle ctsheets49fdtype
+26 Apr 2024 21:09:41 TRACE: Resolving type for handle ctsheet4dbetype
+26 Apr 2024 21:09:41 TRACE: Resolving type for handle strelationshipid1e94type
+26 Apr 2024 21:09:41 TRACE: Resolving type for handle worksheetf539doctype
+26 Apr 2024 21:09:41 TRACE: Resolving type for handle ctworksheet530dtype
+26 Apr 2024 21:09:41 TRACE: Resolving type for handle ctcols627ctype
+26 Apr 2024 21:09:41 TRACE: Resolving type for handle ctsheetdata8408type
+26 Apr 2024 21:09:41 TRACE: Resolving type for handle ctrowdd39type
+26 Apr 2024 21:09:41 TRACE: Resolving type for handle ctcell842btype
+26 Apr 2024 21:09:41 TRACE: Resolving type for handle stcellrefe4e0type
+26 Apr 2024 21:10:50 DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+26 Apr 2024 21:10:50 DEBUG: Parsing relationship: /_rels/.rels
+26 Apr 2024 21:10:50 TRACE: Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+26 Apr 2024 21:10:50 TRACE: Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+26 Apr 2024 21:10:50 TRACE: Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+26 Apr 2024 21:10:50 TRACE: Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+26 Apr 2024 21:10:50 TRACE: Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+26 Apr 2024 21:10:50 TRACE: Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+26 Apr 2024 21:10:50 TRACE: Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+26 Apr 2024 21:10:50 TRACE: Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+26 Apr 2024 21:10:50 TRACE: Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+26 Apr 2024 21:10:50 TRACE: Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+26 Apr 2024 21:10:50 TRACE: Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+26 Apr 2024 21:10:50 TRACE: Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+26 Apr 2024 21:10:50 TRACE: Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+26 Apr 2024 21:10:50 TRACE: Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+26 Apr 2024 21:10:50 TRACE: Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+26 Apr 2024 21:10:50 TRACE: Resolving type for handle themefd26doctype
+26 Apr 2024 21:10:50 TRACE: Resolving type for handle stylesheet5d8bdoctype
+26 Apr 2024 21:10:50 TRACE: Resolving type for handle ctstylesheet4257type
+26 Apr 2024 21:10:50 TRACE: Resolving type for handle ctfonts6623type
+26 Apr 2024 21:10:50 TRACE: Resolving type for handle ctfont14d8type
+26 Apr 2024 21:10:50 TRACE: Resolving type for handle ctfills2c6ftype
+26 Apr 2024 21:10:50 TRACE: Resolving type for handle ctfill550ctype
+26 Apr 2024 21:10:51 TRACE: Resolving type for handle ctborders0d66type
+26 Apr 2024 21:10:51 TRACE: Resolving type for handle ctborderf935type
+26 Apr 2024 21:10:51 TRACE: Resolving type for handle ctcellxfs1322type
+26 Apr 2024 21:10:51 TRACE: Resolving type for handle ctxf97f7type
+26 Apr 2024 21:10:51 TRACE: Resolving type for handle ctcellstylexfsa81ftype
+26 Apr 2024 21:10:51 TRACE: Resolving type for handle ctdxfsb26atype
+26 Apr 2024 21:10:51 TRACE: Resolving type for handle cttablestyles872ftype
+26 Apr 2024 21:10:51 TRACE: Resolving type for handle sstf81fdoctype
+26 Apr 2024 21:10:51 TRACE: Resolving type for handle ctsst44f3type
+26 Apr 2024 21:10:51 TRACE: Resolving type for handle ctrsta472type
+26 Apr 2024 21:10:51 TRACE: Resolving type for handle workbookec17doctype
+26 Apr 2024 21:10:51 TRACE: Resolving type for handle ctworkbook83c3type
+26 Apr 2024 21:10:51 TRACE: Resolving type for handle ctsheets49fdtype
+26 Apr 2024 21:10:51 TRACE: Resolving type for handle ctsheet4dbetype
+26 Apr 2024 21:10:51 TRACE: Resolving type for handle strelationshipid1e94type
+26 Apr 2024 21:10:51 TRACE: Resolving type for handle worksheetf539doctype
+26 Apr 2024 21:10:51 TRACE: Resolving type for handle ctworksheet530dtype
+26 Apr 2024 21:10:51 TRACE: Resolving type for handle ctcols627ctype
+26 Apr 2024 21:10:51 TRACE: Resolving type for handle ctsheetdata8408type
+26 Apr 2024 21:10:51 TRACE: Resolving type for handle ctrowdd39type
+26 Apr 2024 21:10:51 TRACE: Resolving type for handle ctcell842btype
+26 Apr 2024 21:10:51 TRACE: Resolving type for handle stcellrefe4e0type
+26 Apr 2024 21:17:44 DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+26 Apr 2024 21:17:44 DEBUG: Parsing relationship: /_rels/.rels
+26 Apr 2024 21:17:44 TRACE: Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+26 Apr 2024 21:17:44 TRACE: Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+26 Apr 2024 21:17:44 TRACE: Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+26 Apr 2024 21:17:44 TRACE: Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+26 Apr 2024 21:17:44 TRACE: Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+26 Apr 2024 21:17:44 TRACE: Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+26 Apr 2024 21:17:44 TRACE: Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+26 Apr 2024 21:17:44 TRACE: Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+26 Apr 2024 21:17:44 TRACE: Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+26 Apr 2024 21:17:44 TRACE: Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+26 Apr 2024 21:17:44 TRACE: Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+26 Apr 2024 21:17:44 TRACE: Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+26 Apr 2024 21:17:44 TRACE: Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+26 Apr 2024 21:17:44 TRACE: Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+26 Apr 2024 21:17:44 TRACE: Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+26 Apr 2024 21:17:44 TRACE: Resolving type for handle themefd26doctype
+26 Apr 2024 21:17:44 TRACE: Resolving type for handle stylesheet5d8bdoctype
+26 Apr 2024 21:17:44 TRACE: Resolving type for handle ctstylesheet4257type
+26 Apr 2024 21:17:44 TRACE: Resolving type for handle ctfonts6623type
+26 Apr 2024 21:17:44 TRACE: Resolving type for handle ctfont14d8type
+26 Apr 2024 21:17:44 TRACE: Resolving type for handle ctfills2c6ftype
+26 Apr 2024 21:17:44 TRACE: Resolving type for handle ctfill550ctype
+26 Apr 2024 21:17:44 TRACE: Resolving type for handle ctborders0d66type
+26 Apr 2024 21:17:44 TRACE: Resolving type for handle ctborderf935type
+26 Apr 2024 21:17:44 TRACE: Resolving type for handle ctcellxfs1322type
+26 Apr 2024 21:17:44 TRACE: Resolving type for handle ctxf97f7type
+26 Apr 2024 21:17:44 TRACE: Resolving type for handle ctcellstylexfsa81ftype
+26 Apr 2024 21:17:44 TRACE: Resolving type for handle ctdxfsb26atype
+26 Apr 2024 21:17:44 TRACE: Resolving type for handle cttablestyles872ftype
+26 Apr 2024 21:17:44 TRACE: Resolving type for handle sstf81fdoctype
+26 Apr 2024 21:17:44 TRACE: Resolving type for handle ctsst44f3type
+26 Apr 2024 21:17:44 TRACE: Resolving type for handle ctrsta472type
+26 Apr 2024 21:17:44 TRACE: Resolving type for handle workbookec17doctype
+26 Apr 2024 21:17:44 TRACE: Resolving type for handle ctworkbook83c3type
+26 Apr 2024 21:17:44 TRACE: Resolving type for handle ctsheets49fdtype
+26 Apr 2024 21:17:44 TRACE: Resolving type for handle ctsheet4dbetype
+26 Apr 2024 21:17:44 TRACE: Resolving type for handle strelationshipid1e94type
+26 Apr 2024 21:17:44 TRACE: Resolving type for handle worksheetf539doctype
+26 Apr 2024 21:17:44 TRACE: Resolving type for handle ctworksheet530dtype
+26 Apr 2024 21:17:44 TRACE: Resolving type for handle ctcols627ctype
+26 Apr 2024 21:17:44 TRACE: Resolving type for handle ctsheetdata8408type
+26 Apr 2024 21:17:44 TRACE: Resolving type for handle ctrowdd39type
+26 Apr 2024 21:17:44 TRACE: Resolving type for handle ctcell842btype
+26 Apr 2024 21:17:44 TRACE: Resolving type for handle stcellrefe4e0type
+26 Apr 2024 21:18:01 ERROR: Not Found
+26 Apr 2024 21:18:37 DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+26 Apr 2024 21:18:37 DEBUG: Parsing relationship: /_rels/.rels
+26 Apr 2024 21:18:38 TRACE: Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+26 Apr 2024 21:18:38 TRACE: Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+26 Apr 2024 21:18:38 TRACE: Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+26 Apr 2024 21:18:38 TRACE: Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+26 Apr 2024 21:18:38 TRACE: Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+26 Apr 2024 21:18:38 TRACE: Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+26 Apr 2024 21:18:38 TRACE: Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+26 Apr 2024 21:18:38 TRACE: Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+26 Apr 2024 21:18:38 TRACE: Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+26 Apr 2024 21:18:38 TRACE: Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+26 Apr 2024 21:18:38 TRACE: Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+26 Apr 2024 21:18:38 TRACE: Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+26 Apr 2024 21:18:38 TRACE: Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+26 Apr 2024 21:18:38 TRACE: Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+26 Apr 2024 21:18:38 TRACE: Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+26 Apr 2024 21:18:38 TRACE: Resolving type for handle themefd26doctype
+26 Apr 2024 21:18:38 TRACE: Resolving type for handle stylesheet5d8bdoctype
+26 Apr 2024 21:18:38 TRACE: Resolving type for handle ctstylesheet4257type
+26 Apr 2024 21:18:38 TRACE: Resolving type for handle ctfonts6623type
+26 Apr 2024 21:18:38 TRACE: Resolving type for handle ctfont14d8type
+26 Apr 2024 21:18:38 TRACE: Resolving type for handle ctfills2c6ftype
+26 Apr 2024 21:18:38 TRACE: Resolving type for handle ctfill550ctype
+26 Apr 2024 21:18:38 TRACE: Resolving type for handle ctborders0d66type
+26 Apr 2024 21:18:38 TRACE: Resolving type for handle ctborderf935type
+26 Apr 2024 21:18:38 TRACE: Resolving type for handle ctcellxfs1322type
+26 Apr 2024 21:18:38 TRACE: Resolving type for handle ctxf97f7type
+26 Apr 2024 21:18:38 TRACE: Resolving type for handle ctcellstylexfsa81ftype
+26 Apr 2024 21:18:38 TRACE: Resolving type for handle ctdxfsb26atype
+26 Apr 2024 21:18:38 TRACE: Resolving type for handle cttablestyles872ftype
+26 Apr 2024 21:18:38 TRACE: Resolving type for handle sstf81fdoctype
+26 Apr 2024 21:18:38 TRACE: Resolving type for handle ctsst44f3type
+26 Apr 2024 21:18:38 TRACE: Resolving type for handle ctrsta472type
+26 Apr 2024 21:18:38 TRACE: Resolving type for handle workbookec17doctype
+26 Apr 2024 21:18:38 TRACE: Resolving type for handle ctworkbook83c3type
+26 Apr 2024 21:18:38 TRACE: Resolving type for handle ctsheets49fdtype
+26 Apr 2024 21:18:38 TRACE: Resolving type for handle ctsheet4dbetype
+26 Apr 2024 21:18:38 TRACE: Resolving type for handle strelationshipid1e94type
+26 Apr 2024 21:18:38 TRACE: Resolving type for handle worksheetf539doctype
+26 Apr 2024 21:18:38 TRACE: Resolving type for handle ctworksheet530dtype
+26 Apr 2024 21:18:38 TRACE: Resolving type for handle ctcols627ctype
+26 Apr 2024 21:18:38 TRACE: Resolving type for handle ctsheetdata8408type
+26 Apr 2024 21:18:38 TRACE: Resolving type for handle ctrowdd39type
+26 Apr 2024 21:18:38 TRACE: Resolving type for handle ctcell842btype
+26 Apr 2024 21:18:38 TRACE: Resolving type for handle stcellrefe4e0type
+26 Apr 2024 21:18:54 WARN : No Element Found
+26 Apr 2024 21:18:54 INFO : This the item is added to the cart
+26 Apr 2024 21:20:08 DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+26 Apr 2024 21:20:08 DEBUG: Parsing relationship: /_rels/.rels
+26 Apr 2024 21:20:08 TRACE: Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+26 Apr 2024 21:20:08 TRACE: Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+26 Apr 2024 21:20:08 TRACE: Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+26 Apr 2024 21:20:08 TRACE: Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+26 Apr 2024 21:20:08 TRACE: Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+26 Apr 2024 21:20:08 TRACE: Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+26 Apr 2024 21:20:08 TRACE: Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+26 Apr 2024 21:20:08 TRACE: Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+26 Apr 2024 21:20:08 TRACE: Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+26 Apr 2024 21:20:08 TRACE: Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+26 Apr 2024 21:20:08 TRACE: Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+26 Apr 2024 21:20:08 TRACE: Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+26 Apr 2024 21:20:08 TRACE: Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+26 Apr 2024 21:20:08 TRACE: Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+26 Apr 2024 21:20:08 TRACE: Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+26 Apr 2024 21:20:08 TRACE: Resolving type for handle themefd26doctype
+26 Apr 2024 21:20:08 TRACE: Resolving type for handle stylesheet5d8bdoctype
+26 Apr 2024 21:20:08 TRACE: Resolving type for handle ctstylesheet4257type
+26 Apr 2024 21:20:08 TRACE: Resolving type for handle ctfonts6623type
+26 Apr 2024 21:20:08 TRACE: Resolving type for handle ctfont14d8type
+26 Apr 2024 21:20:08 TRACE: Resolving type for handle ctfills2c6ftype
+26 Apr 2024 21:20:08 TRACE: Resolving type for handle ctfill550ctype
+26 Apr 2024 21:20:08 TRACE: Resolving type for handle ctborders0d66type
+26 Apr 2024 21:20:08 TRACE: Resolving type for handle ctborderf935type
+26 Apr 2024 21:20:08 TRACE: Resolving type for handle ctcellxfs1322type
+26 Apr 2024 21:20:08 TRACE: Resolving type for handle ctxf97f7type
+26 Apr 2024 21:20:08 TRACE: Resolving type for handle ctcellstylexfsa81ftype
+26 Apr 2024 21:20:08 TRACE: Resolving type for handle ctdxfsb26atype
+26 Apr 2024 21:20:08 TRACE: Resolving type for handle cttablestyles872ftype
+26 Apr 2024 21:20:08 TRACE: Resolving type for handle sstf81fdoctype
+26 Apr 2024 21:20:08 TRACE: Resolving type for handle ctsst44f3type
+26 Apr 2024 21:20:08 TRACE: Resolving type for handle ctrsta472type
+26 Apr 2024 21:20:08 TRACE: Resolving type for handle workbookec17doctype
+26 Apr 2024 21:20:08 TRACE: Resolving type for handle ctworkbook83c3type
+26 Apr 2024 21:20:08 TRACE: Resolving type for handle ctsheets49fdtype
+26 Apr 2024 21:20:08 TRACE: Resolving type for handle ctsheet4dbetype
+26 Apr 2024 21:20:08 TRACE: Resolving type for handle strelationshipid1e94type
+26 Apr 2024 21:20:08 TRACE: Resolving type for handle worksheetf539doctype
+26 Apr 2024 21:20:08 TRACE: Resolving type for handle ctworksheet530dtype
+26 Apr 2024 21:20:08 TRACE: Resolving type for handle ctcols627ctype
+26 Apr 2024 21:20:08 TRACE: Resolving type for handle ctsheetdata8408type
+26 Apr 2024 21:20:08 TRACE: Resolving type for handle ctrowdd39type
+26 Apr 2024 21:20:08 TRACE: Resolving type for handle ctcell842btype
+26 Apr 2024 21:20:08 TRACE: Resolving type for handle stcellrefe4e0type
+26 Apr 2024 21:20:35 DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+26 Apr 2024 21:20:35 DEBUG: Parsing relationship: /_rels/.rels
+26 Apr 2024 21:20:35 TRACE: Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+26 Apr 2024 21:20:35 TRACE: Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+26 Apr 2024 21:20:35 TRACE: Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+26 Apr 2024 21:20:35 TRACE: Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+26 Apr 2024 21:20:35 TRACE: Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+26 Apr 2024 21:20:35 TRACE: Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+26 Apr 2024 21:20:35 TRACE: Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+26 Apr 2024 21:20:35 TRACE: Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+26 Apr 2024 21:20:35 TRACE: Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+26 Apr 2024 21:20:35 TRACE: Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+26 Apr 2024 21:20:35 TRACE: Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+26 Apr 2024 21:20:35 TRACE: Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+26 Apr 2024 21:20:35 TRACE: Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+26 Apr 2024 21:20:35 TRACE: Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+26 Apr 2024 21:20:35 TRACE: Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+26 Apr 2024 21:20:35 TRACE: Resolving type for handle themefd26doctype
+26 Apr 2024 21:20:35 TRACE: Resolving type for handle stylesheet5d8bdoctype
+26 Apr 2024 21:20:35 TRACE: Resolving type for handle ctstylesheet4257type
+26 Apr 2024 21:20:35 TRACE: Resolving type for handle ctfonts6623type
+26 Apr 2024 21:20:35 TRACE: Resolving type for handle ctfont14d8type
+26 Apr 2024 21:20:35 TRACE: Resolving type for handle ctfills2c6ftype
+26 Apr 2024 21:20:35 TRACE: Resolving type for handle ctfill550ctype
+26 Apr 2024 21:20:35 TRACE: Resolving type for handle ctborders0d66type
+26 Apr 2024 21:20:35 TRACE: Resolving type for handle ctborderf935type
+26 Apr 2024 21:20:35 TRACE: Resolving type for handle ctcellxfs1322type
+26 Apr 2024 21:20:35 TRACE: Resolving type for handle ctxf97f7type
+26 Apr 2024 21:20:35 TRACE: Resolving type for handle ctcellstylexfsa81ftype
+26 Apr 2024 21:20:35 TRACE: Resolving type for handle ctdxfsb26atype
+26 Apr 2024 21:20:35 TRACE: Resolving type for handle cttablestyles872ftype
+26 Apr 2024 21:20:35 TRACE: Resolving type for handle sstf81fdoctype
+26 Apr 2024 21:20:35 TRACE: Resolving type for handle ctsst44f3type
+26 Apr 2024 21:20:35 TRACE: Resolving type for handle ctrsta472type
+26 Apr 2024 21:20:35 TRACE: Resolving type for handle workbookec17doctype
+26 Apr 2024 21:20:35 TRACE: Resolving type for handle ctworkbook83c3type
+26 Apr 2024 21:20:35 TRACE: Resolving type for handle ctsheets49fdtype
+26 Apr 2024 21:20:35 TRACE: Resolving type for handle ctsheet4dbetype
+26 Apr 2024 21:20:35 TRACE: Resolving type for handle strelationshipid1e94type
+26 Apr 2024 21:20:35 TRACE: Resolving type for handle worksheetf539doctype
+26 Apr 2024 21:20:35 TRACE: Resolving type for handle ctworksheet530dtype
+26 Apr 2024 21:20:35 TRACE: Resolving type for handle ctcols627ctype
+26 Apr 2024 21:20:35 TRACE: Resolving type for handle ctsheetdata8408type
+26 Apr 2024 21:20:35 TRACE: Resolving type for handle ctrowdd39type
+26 Apr 2024 21:20:35 TRACE: Resolving type for handle ctcell842btype
+26 Apr 2024 21:20:35 TRACE: Resolving type for handle stcellrefe4e0type
+26 Apr 2024 21:20:50 WARN : No Element Found
+26 Apr 2024 21:20:50 INFO : This the item is added to the cart
+26 Apr 2024 21:21:05 DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+26 Apr 2024 21:21:05 DEBUG: Parsing relationship: /_rels/.rels
+26 Apr 2024 21:21:05 TRACE: Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+26 Apr 2024 21:21:05 TRACE: Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+26 Apr 2024 21:21:05 TRACE: Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+26 Apr 2024 21:21:05 TRACE: Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+26 Apr 2024 21:21:05 TRACE: Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+26 Apr 2024 21:21:05 TRACE: Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+26 Apr 2024 21:21:05 TRACE: Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+26 Apr 2024 21:21:05 TRACE: Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+26 Apr 2024 21:21:05 TRACE: Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+26 Apr 2024 21:21:05 TRACE: Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+26 Apr 2024 21:21:05 TRACE: Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+26 Apr 2024 21:21:05 TRACE: Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+26 Apr 2024 21:21:05 TRACE: Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+26 Apr 2024 21:21:05 TRACE: Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+26 Apr 2024 21:21:05 TRACE: Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+26 Apr 2024 21:21:05 TRACE: Resolving type for handle themefd26doctype
+26 Apr 2024 21:21:05 TRACE: Resolving type for handle stylesheet5d8bdoctype
+26 Apr 2024 21:21:05 TRACE: Resolving type for handle ctstylesheet4257type
+26 Apr 2024 21:21:05 TRACE: Resolving type for handle ctfonts6623type
+26 Apr 2024 21:21:05 TRACE: Resolving type for handle ctfont14d8type
+26 Apr 2024 21:21:05 TRACE: Resolving type for handle ctfills2c6ftype
+26 Apr 2024 21:21:05 TRACE: Resolving type for handle ctfill550ctype
+26 Apr 2024 21:21:05 TRACE: Resolving type for handle ctborders0d66type
+26 Apr 2024 21:21:05 TRACE: Resolving type for handle ctborderf935type
+26 Apr 2024 21:21:05 TRACE: Resolving type for handle ctcellxfs1322type
+26 Apr 2024 21:21:05 TRACE: Resolving type for handle ctxf97f7type
+26 Apr 2024 21:21:05 TRACE: Resolving type for handle ctcellstylexfsa81ftype
+26 Apr 2024 21:21:05 TRACE: Resolving type for handle ctdxfsb26atype
+26 Apr 2024 21:21:05 TRACE: Resolving type for handle cttablestyles872ftype
+26 Apr 2024 21:21:05 TRACE: Resolving type for handle sstf81fdoctype
+26 Apr 2024 21:21:05 TRACE: Resolving type for handle ctsst44f3type
+26 Apr 2024 21:21:05 TRACE: Resolving type for handle ctrsta472type
+26 Apr 2024 21:21:05 TRACE: Resolving type for handle workbookec17doctype
+26 Apr 2024 21:21:05 TRACE: Resolving type for handle ctworkbook83c3type
+26 Apr 2024 21:21:05 TRACE: Resolving type for handle ctsheets49fdtype
+26 Apr 2024 21:21:05 TRACE: Resolving type for handle ctsheet4dbetype
+26 Apr 2024 21:21:05 TRACE: Resolving type for handle strelationshipid1e94type
+26 Apr 2024 21:21:05 TRACE: Resolving type for handle worksheetf539doctype
+26 Apr 2024 21:21:05 TRACE: Resolving type for handle ctworksheet530dtype
+26 Apr 2024 21:21:05 TRACE: Resolving type for handle ctcols627ctype
+26 Apr 2024 21:21:05 TRACE: Resolving type for handle ctsheetdata8408type
+26 Apr 2024 21:21:06 TRACE: Resolving type for handle ctrowdd39type
+26 Apr 2024 21:21:06 TRACE: Resolving type for handle ctcell842btype
+26 Apr 2024 21:21:06 TRACE: Resolving type for handle stcellrefe4e0type
+26 Apr 2024 21:21:25 WARN : No Element Found
+26 Apr 2024 21:21:25 INFO : This the item is added to the cart
+26 Apr 2024 21:21:42 DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+26 Apr 2024 21:21:42 DEBUG: Parsing relationship: /_rels/.rels
+26 Apr 2024 21:21:42 TRACE: Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+26 Apr 2024 21:21:42 TRACE: Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+26 Apr 2024 21:21:42 TRACE: Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+26 Apr 2024 21:21:42 TRACE: Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+26 Apr 2024 21:21:42 TRACE: Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+26 Apr 2024 21:21:42 TRACE: Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+26 Apr 2024 21:21:42 TRACE: Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+26 Apr 2024 21:21:42 TRACE: Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+26 Apr 2024 21:21:42 TRACE: Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+26 Apr 2024 21:21:42 TRACE: Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+26 Apr 2024 21:21:42 TRACE: Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+26 Apr 2024 21:21:42 TRACE: Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+26 Apr 2024 21:21:42 TRACE: Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+26 Apr 2024 21:21:42 TRACE: Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+26 Apr 2024 21:21:42 TRACE: Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+26 Apr 2024 21:21:42 TRACE: Resolving type for handle themefd26doctype
+26 Apr 2024 21:21:42 TRACE: Resolving type for handle stylesheet5d8bdoctype
+26 Apr 2024 21:21:42 TRACE: Resolving type for handle ctstylesheet4257type
+26 Apr 2024 21:21:42 TRACE: Resolving type for handle ctfonts6623type
+26 Apr 2024 21:21:42 TRACE: Resolving type for handle ctfont14d8type
+26 Apr 2024 21:21:42 TRACE: Resolving type for handle ctfills2c6ftype
+26 Apr 2024 21:21:42 TRACE: Resolving type for handle ctfill550ctype
+26 Apr 2024 21:21:42 TRACE: Resolving type for handle ctborders0d66type
+26 Apr 2024 21:21:42 TRACE: Resolving type for handle ctborderf935type
+26 Apr 2024 21:21:42 TRACE: Resolving type for handle ctcellxfs1322type
+26 Apr 2024 21:21:42 TRACE: Resolving type for handle ctxf97f7type
+26 Apr 2024 21:21:42 TRACE: Resolving type for handle ctcellstylexfsa81ftype
+26 Apr 2024 21:21:42 TRACE: Resolving type for handle ctdxfsb26atype
+26 Apr 2024 21:21:42 TRACE: Resolving type for handle cttablestyles872ftype
+26 Apr 2024 21:21:42 TRACE: Resolving type for handle sstf81fdoctype
+26 Apr 2024 21:21:42 TRACE: Resolving type for handle ctsst44f3type
+26 Apr 2024 21:21:42 TRACE: Resolving type for handle ctrsta472type
+26 Apr 2024 21:21:42 TRACE: Resolving type for handle workbookec17doctype
+26 Apr 2024 21:21:42 TRACE: Resolving type for handle ctworkbook83c3type
+26 Apr 2024 21:21:42 TRACE: Resolving type for handle ctsheets49fdtype
+26 Apr 2024 21:21:42 TRACE: Resolving type for handle ctsheet4dbetype
+26 Apr 2024 21:21:42 TRACE: Resolving type for handle strelationshipid1e94type
+26 Apr 2024 21:21:42 TRACE: Resolving type for handle worksheetf539doctype
+26 Apr 2024 21:21:42 TRACE: Resolving type for handle ctworksheet530dtype
+26 Apr 2024 21:21:42 TRACE: Resolving type for handle ctcols627ctype
+26 Apr 2024 21:21:42 TRACE: Resolving type for handle ctsheetdata8408type
+26 Apr 2024 21:21:42 TRACE: Resolving type for handle ctrowdd39type
+26 Apr 2024 21:21:42 TRACE: Resolving type for handle ctcell842btype
+26 Apr 2024 21:21:42 TRACE: Resolving type for handle stcellrefe4e0type
+26 Apr 2024 21:22:00 WARN : No Element Found
+26 Apr 2024 21:22:00 INFO : This the item is added to the cart
+26 Apr 2024 21:22:09 ERROR: Not Found
+26 Apr 2024 21:24:13 DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+26 Apr 2024 21:24:13 DEBUG: Parsing relationship: /_rels/.rels
+26 Apr 2024 21:24:14 TRACE: Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+26 Apr 2024 21:24:14 TRACE: Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+26 Apr 2024 21:24:14 TRACE: Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+26 Apr 2024 21:24:14 TRACE: Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+26 Apr 2024 21:24:14 TRACE: Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+26 Apr 2024 21:24:14 TRACE: Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+26 Apr 2024 21:24:14 TRACE: Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+26 Apr 2024 21:24:14 TRACE: Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+26 Apr 2024 21:24:14 TRACE: Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+26 Apr 2024 21:24:14 TRACE: Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+26 Apr 2024 21:24:14 TRACE: Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+26 Apr 2024 21:24:14 TRACE: Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+26 Apr 2024 21:24:14 TRACE: Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+26 Apr 2024 21:24:14 TRACE: Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+26 Apr 2024 21:24:14 TRACE: Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+26 Apr 2024 21:24:14 TRACE: Resolving type for handle themefd26doctype
+26 Apr 2024 21:24:14 TRACE: Resolving type for handle stylesheet5d8bdoctype
+26 Apr 2024 21:24:14 TRACE: Resolving type for handle ctstylesheet4257type
+26 Apr 2024 21:24:14 TRACE: Resolving type for handle ctfonts6623type
+26 Apr 2024 21:24:14 TRACE: Resolving type for handle ctfont14d8type
+26 Apr 2024 21:24:14 TRACE: Resolving type for handle ctfills2c6ftype
+26 Apr 2024 21:24:14 TRACE: Resolving type for handle ctfill550ctype
+26 Apr 2024 21:24:14 TRACE: Resolving type for handle ctborders0d66type
+26 Apr 2024 21:24:14 TRACE: Resolving type for handle ctborderf935type
+26 Apr 2024 21:24:14 TRACE: Resolving type for handle ctcellxfs1322type
+26 Apr 2024 21:24:14 TRACE: Resolving type for handle ctxf97f7type
+26 Apr 2024 21:24:14 TRACE: Resolving type for handle ctcellstylexfsa81ftype
+26 Apr 2024 21:24:14 TRACE: Resolving type for handle ctdxfsb26atype
+26 Apr 2024 21:24:14 TRACE: Resolving type for handle cttablestyles872ftype
+26 Apr 2024 21:24:14 TRACE: Resolving type for handle sstf81fdoctype
+26 Apr 2024 21:24:14 TRACE: Resolving type for handle ctsst44f3type
+26 Apr 2024 21:24:14 TRACE: Resolving type for handle ctrsta472type
+26 Apr 2024 21:24:14 TRACE: Resolving type for handle workbookec17doctype
+26 Apr 2024 21:24:14 TRACE: Resolving type for handle ctworkbook83c3type
+26 Apr 2024 21:24:14 TRACE: Resolving type for handle ctsheets49fdtype
+26 Apr 2024 21:24:14 TRACE: Resolving type for handle ctsheet4dbetype
+26 Apr 2024 21:24:14 TRACE: Resolving type for handle strelationshipid1e94type
+26 Apr 2024 21:24:14 TRACE: Resolving type for handle worksheetf539doctype
+26 Apr 2024 21:24:14 TRACE: Resolving type for handle ctworksheet530dtype
+26 Apr 2024 21:24:14 TRACE: Resolving type for handle ctcols627ctype
+26 Apr 2024 21:24:14 TRACE: Resolving type for handle ctsheetdata8408type
+26 Apr 2024 21:24:14 TRACE: Resolving type for handle ctrowdd39type
+26 Apr 2024 21:24:14 TRACE: Resolving type for handle ctcell842btype
+26 Apr 2024 21:24:14 TRACE: Resolving type for handle stcellrefe4e0type
+26 Apr 2024 21:24:23 TRACE: Resolving type for handle stcelltypebf95type
+26 Apr 2024 21:24:23 TRACE: Resolving type for handle stxstringf179type
+26 Apr 2024 21:24:29 INFO : SuccessFull
+26 Apr 2024 21:25:49 DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+26 Apr 2024 21:25:49 DEBUG: Parsing relationship: /_rels/.rels
+26 Apr 2024 21:25:49 TRACE: Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+26 Apr 2024 21:25:49 TRACE: Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+26 Apr 2024 21:25:49 TRACE: Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+26 Apr 2024 21:25:49 TRACE: Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+26 Apr 2024 21:25:49 TRACE: Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+26 Apr 2024 21:25:49 TRACE: Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+26 Apr 2024 21:25:49 TRACE: Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+26 Apr 2024 21:25:49 TRACE: Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+26 Apr 2024 21:25:49 TRACE: Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+26 Apr 2024 21:25:49 TRACE: Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+26 Apr 2024 21:25:49 TRACE: Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+26 Apr 2024 21:25:49 TRACE: Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+26 Apr 2024 21:25:49 TRACE: Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+26 Apr 2024 21:25:49 TRACE: Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+26 Apr 2024 21:25:49 TRACE: Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+26 Apr 2024 21:25:49 TRACE: Resolving type for handle themefd26doctype
+26 Apr 2024 21:25:49 TRACE: Resolving type for handle stylesheet5d8bdoctype
+26 Apr 2024 21:25:49 TRACE: Resolving type for handle ctstylesheet4257type
+26 Apr 2024 21:25:49 TRACE: Resolving type for handle ctfonts6623type
+26 Apr 2024 21:25:49 TRACE: Resolving type for handle ctfont14d8type
+26 Apr 2024 21:25:49 TRACE: Resolving type for handle ctfills2c6ftype
+26 Apr 2024 21:25:49 TRACE: Resolving type for handle ctfill550ctype
+26 Apr 2024 21:25:49 TRACE: Resolving type for handle ctborders0d66type
+26 Apr 2024 21:25:49 TRACE: Resolving type for handle ctborderf935type
+26 Apr 2024 21:25:49 TRACE: Resolving type for handle ctcellxfs1322type
+26 Apr 2024 21:25:49 TRACE: Resolving type for handle ctxf97f7type
+26 Apr 2024 21:25:49 TRACE: Resolving type for handle ctcellstylexfsa81ftype
+26 Apr 2024 21:25:49 TRACE: Resolving type for handle ctdxfsb26atype
+26 Apr 2024 21:25:49 TRACE: Resolving type for handle cttablestyles872ftype
+26 Apr 2024 21:25:49 TRACE: Resolving type for handle sstf81fdoctype
+26 Apr 2024 21:25:49 TRACE: Resolving type for handle ctsst44f3type
+26 Apr 2024 21:25:49 TRACE: Resolving type for handle ctrsta472type
+26 Apr 2024 21:25:49 TRACE: Resolving type for handle workbookec17doctype
+26 Apr 2024 21:25:49 TRACE: Resolving type for handle ctworkbook83c3type
+26 Apr 2024 21:25:49 TRACE: Resolving type for handle ctsheets49fdtype
+26 Apr 2024 21:25:49 TRACE: Resolving type for handle ctsheet4dbetype
+26 Apr 2024 21:25:49 TRACE: Resolving type for handle strelationshipid1e94type
+26 Apr 2024 21:25:49 TRACE: Resolving type for handle worksheetf539doctype
+26 Apr 2024 21:25:49 TRACE: Resolving type for handle ctworksheet530dtype
+26 Apr 2024 21:25:49 TRACE: Resolving type for handle ctcols627ctype
+26 Apr 2024 21:25:49 TRACE: Resolving type for handle ctsheetdata8408type
+26 Apr 2024 21:25:49 TRACE: Resolving type for handle ctrowdd39type
+26 Apr 2024 21:25:49 TRACE: Resolving type for handle ctcell842btype
+26 Apr 2024 21:25:49 TRACE: Resolving type for handle stcellrefe4e0type
+26 Apr 2024 21:25:58 TRACE: Resolving type for handle stcelltypebf95type
+26 Apr 2024 21:25:58 TRACE: Resolving type for handle stxstringf179type
+26 Apr 2024 21:26:16 INFO : SuccessFull
+26 Apr 2024 21:26:28 WARN : No Element Found
+26 Apr 2024 21:26:28 INFO : This the item is added to the cart
+26 Apr 2024 21:27:04 DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+26 Apr 2024 21:27:04 DEBUG: Parsing relationship: /_rels/.rels
+26 Apr 2024 21:27:05 TRACE: Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+26 Apr 2024 21:27:05 TRACE: Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+26 Apr 2024 21:27:05 TRACE: Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+26 Apr 2024 21:27:05 TRACE: Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+26 Apr 2024 21:27:05 TRACE: Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+26 Apr 2024 21:27:05 TRACE: Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+26 Apr 2024 21:27:05 TRACE: Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+26 Apr 2024 21:27:05 TRACE: Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+26 Apr 2024 21:27:05 TRACE: Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+26 Apr 2024 21:27:05 TRACE: Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+26 Apr 2024 21:27:05 TRACE: Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+26 Apr 2024 21:27:05 TRACE: Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+26 Apr 2024 21:27:05 TRACE: Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+26 Apr 2024 21:27:05 TRACE: Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+26 Apr 2024 21:27:05 TRACE: Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+26 Apr 2024 21:27:05 TRACE: Resolving type for handle themefd26doctype
+26 Apr 2024 21:27:05 TRACE: Resolving type for handle stylesheet5d8bdoctype
+26 Apr 2024 21:27:05 TRACE: Resolving type for handle ctstylesheet4257type
+26 Apr 2024 21:27:05 TRACE: Resolving type for handle ctfonts6623type
+26 Apr 2024 21:27:05 TRACE: Resolving type for handle ctfont14d8type
+26 Apr 2024 21:27:05 TRACE: Resolving type for handle ctfills2c6ftype
+26 Apr 2024 21:27:05 TRACE: Resolving type for handle ctfill550ctype
+26 Apr 2024 21:27:05 TRACE: Resolving type for handle ctborders0d66type
+26 Apr 2024 21:27:05 TRACE: Resolving type for handle ctborderf935type
+26 Apr 2024 21:27:05 TRACE: Resolving type for handle ctcellxfs1322type
+26 Apr 2024 21:27:05 TRACE: Resolving type for handle ctxf97f7type
+26 Apr 2024 21:27:05 TRACE: Resolving type for handle ctcellstylexfsa81ftype
+26 Apr 2024 21:27:05 TRACE: Resolving type for handle ctdxfsb26atype
+26 Apr 2024 21:27:05 TRACE: Resolving type for handle cttablestyles872ftype
+26 Apr 2024 21:27:05 TRACE: Resolving type for handle sstf81fdoctype
+26 Apr 2024 21:27:05 TRACE: Resolving type for handle ctsst44f3type
+26 Apr 2024 21:27:05 TRACE: Resolving type for handle ctrsta472type
+26 Apr 2024 21:27:05 TRACE: Resolving type for handle workbookec17doctype
+26 Apr 2024 21:27:05 TRACE: Resolving type for handle ctworkbook83c3type
+26 Apr 2024 21:27:05 TRACE: Resolving type for handle ctsheets49fdtype
+26 Apr 2024 21:27:05 TRACE: Resolving type for handle ctsheet4dbetype
+26 Apr 2024 21:27:05 TRACE: Resolving type for handle strelationshipid1e94type
+26 Apr 2024 21:27:05 TRACE: Resolving type for handle worksheetf539doctype
+26 Apr 2024 21:27:05 TRACE: Resolving type for handle ctworksheet530dtype
+26 Apr 2024 21:27:05 TRACE: Resolving type for handle ctcols627ctype
+26 Apr 2024 21:27:05 TRACE: Resolving type for handle ctsheetdata8408type
+26 Apr 2024 21:27:05 TRACE: Resolving type for handle ctrowdd39type
+26 Apr 2024 21:27:05 TRACE: Resolving type for handle ctcell842btype
+26 Apr 2024 21:27:05 TRACE: Resolving type for handle stcellrefe4e0type
+26 Apr 2024 21:27:12 TRACE: Resolving type for handle stcelltypebf95type
+26 Apr 2024 21:27:12 TRACE: Resolving type for handle stxstringf179type
+26 Apr 2024 21:27:19 INFO : SuccessFull
+26 Apr 2024 21:27:27 WARN : No Element Found
+26 Apr 2024 21:27:27 INFO : This the item is added to the cart
+26 Apr 2024 21:27:35 ERROR: Not Found
+26 Apr 2024 21:28:17 DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+26 Apr 2024 21:28:17 DEBUG: Parsing relationship: /_rels/.rels
+26 Apr 2024 21:28:17 TRACE: Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+26 Apr 2024 21:28:17 TRACE: Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+26 Apr 2024 21:28:17 TRACE: Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+26 Apr 2024 21:28:17 TRACE: Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+26 Apr 2024 21:28:17 TRACE: Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+26 Apr 2024 21:28:17 TRACE: Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+26 Apr 2024 21:28:17 TRACE: Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+26 Apr 2024 21:28:17 TRACE: Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+26 Apr 2024 21:28:17 TRACE: Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+26 Apr 2024 21:28:17 TRACE: Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+26 Apr 2024 21:28:17 TRACE: Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+26 Apr 2024 21:28:17 TRACE: Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+26 Apr 2024 21:28:17 TRACE: Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+26 Apr 2024 21:28:17 TRACE: Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+26 Apr 2024 21:28:18 TRACE: Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+26 Apr 2024 21:28:18 TRACE: Resolving type for handle themefd26doctype
+26 Apr 2024 21:28:18 TRACE: Resolving type for handle stylesheet5d8bdoctype
+26 Apr 2024 21:28:18 TRACE: Resolving type for handle ctstylesheet4257type
+26 Apr 2024 21:28:18 TRACE: Resolving type for handle ctfonts6623type
+26 Apr 2024 21:28:18 TRACE: Resolving type for handle ctfont14d8type
+26 Apr 2024 21:28:18 TRACE: Resolving type for handle ctfills2c6ftype
+26 Apr 2024 21:28:18 TRACE: Resolving type for handle ctfill550ctype
+26 Apr 2024 21:28:18 TRACE: Resolving type for handle ctborders0d66type
+26 Apr 2024 21:28:18 TRACE: Resolving type for handle ctborderf935type
+26 Apr 2024 21:28:18 TRACE: Resolving type for handle ctcellxfs1322type
+26 Apr 2024 21:28:18 TRACE: Resolving type for handle ctxf97f7type
+26 Apr 2024 21:28:18 TRACE: Resolving type for handle ctcellstylexfsa81ftype
+26 Apr 2024 21:28:18 TRACE: Resolving type for handle ctdxfsb26atype
+26 Apr 2024 21:28:18 TRACE: Resolving type for handle cttablestyles872ftype
+26 Apr 2024 21:28:18 TRACE: Resolving type for handle sstf81fdoctype
+26 Apr 2024 21:28:18 TRACE: Resolving type for handle ctsst44f3type
+26 Apr 2024 21:28:18 TRACE: Resolving type for handle ctrsta472type
+26 Apr 2024 21:28:18 TRACE: Resolving type for handle workbookec17doctype
+26 Apr 2024 21:28:18 TRACE: Resolving type for handle ctworkbook83c3type
+26 Apr 2024 21:28:18 TRACE: Resolving type for handle ctsheets49fdtype
+26 Apr 2024 21:28:18 TRACE: Resolving type for handle ctsheet4dbetype
+26 Apr 2024 21:28:18 TRACE: Resolving type for handle strelationshipid1e94type
+26 Apr 2024 21:28:18 TRACE: Resolving type for handle worksheetf539doctype
+26 Apr 2024 21:28:18 TRACE: Resolving type for handle ctworksheet530dtype
+26 Apr 2024 21:28:18 TRACE: Resolving type for handle ctcols627ctype
+26 Apr 2024 21:28:18 TRACE: Resolving type for handle ctsheetdata8408type
+26 Apr 2024 21:28:18 TRACE: Resolving type for handle ctrowdd39type
+26 Apr 2024 21:28:18 TRACE: Resolving type for handle ctcell842btype
+26 Apr 2024 21:28:18 TRACE: Resolving type for handle stcellrefe4e0type
+26 Apr 2024 21:28:27 TRACE: Resolving type for handle stcelltypebf95type
+26 Apr 2024 21:28:27 TRACE: Resolving type for handle stxstringf179type
+26 Apr 2024 21:28:33 INFO : SuccessFull
+26 Apr 2024 21:28:41 WARN : No Element Found
+26 Apr 2024 21:28:41 INFO : This the item is added to the cart
+26 Apr 2024 21:28:49 ERROR: Not Found
+26 Apr 2024 21:55:59 DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+26 Apr 2024 21:55:59 DEBUG: Parsing relationship: /_rels/.rels
+26 Apr 2024 21:55:59 TRACE: Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+26 Apr 2024 21:55:59 TRACE: Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+26 Apr 2024 21:55:59 TRACE: Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+26 Apr 2024 21:55:59 TRACE: Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+26 Apr 2024 21:55:59 TRACE: Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+26 Apr 2024 21:55:59 TRACE: Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+26 Apr 2024 21:55:59 TRACE: Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+26 Apr 2024 21:55:59 TRACE: Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+26 Apr 2024 21:55:59 TRACE: Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+26 Apr 2024 21:56:00 TRACE: Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+26 Apr 2024 21:56:00 TRACE: Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+26 Apr 2024 21:56:00 TRACE: Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+26 Apr 2024 21:56:00 TRACE: Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+26 Apr 2024 21:56:00 TRACE: Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+26 Apr 2024 21:56:00 TRACE: Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+26 Apr 2024 21:56:00 TRACE: Resolving type for handle themefd26doctype
+26 Apr 2024 21:56:00 TRACE: Resolving type for handle stylesheet5d8bdoctype
+26 Apr 2024 21:56:00 TRACE: Resolving type for handle ctstylesheet4257type
+26 Apr 2024 21:56:00 TRACE: Resolving type for handle ctfonts6623type
+26 Apr 2024 21:56:00 TRACE: Resolving type for handle ctfont14d8type
+26 Apr 2024 21:56:00 TRACE: Resolving type for handle ctfills2c6ftype
+26 Apr 2024 21:56:00 TRACE: Resolving type for handle ctfill550ctype
+26 Apr 2024 21:56:00 TRACE: Resolving type for handle ctborders0d66type
+26 Apr 2024 21:56:00 TRACE: Resolving type for handle ctborderf935type
+26 Apr 2024 21:56:00 TRACE: Resolving type for handle ctcellxfs1322type
+26 Apr 2024 21:56:00 TRACE: Resolving type for handle ctxf97f7type
+26 Apr 2024 21:56:00 TRACE: Resolving type for handle ctcellstylexfsa81ftype
+26 Apr 2024 21:56:00 TRACE: Resolving type for handle ctdxfsb26atype
+26 Apr 2024 21:56:00 TRACE: Resolving type for handle cttablestyles872ftype
+26 Apr 2024 21:56:00 TRACE: Resolving type for handle sstf81fdoctype
+26 Apr 2024 21:56:00 TRACE: Resolving type for handle ctsst44f3type
+26 Apr 2024 21:56:00 TRACE: Resolving type for handle ctrsta472type
+26 Apr 2024 21:56:00 TRACE: Resolving type for handle workbookec17doctype
+26 Apr 2024 21:56:00 TRACE: Resolving type for handle ctworkbook83c3type
+26 Apr 2024 21:56:00 TRACE: Resolving type for handle ctsheets49fdtype
+26 Apr 2024 21:56:00 TRACE: Resolving type for handle ctsheet4dbetype
+26 Apr 2024 21:56:00 TRACE: Resolving type for handle strelationshipid1e94type
+26 Apr 2024 21:56:00 TRACE: Resolving type for handle worksheetf539doctype
+26 Apr 2024 21:56:00 TRACE: Resolving type for handle ctworksheet530dtype
+26 Apr 2024 21:56:00 TRACE: Resolving type for handle ctcols627ctype
+26 Apr 2024 21:56:00 TRACE: Resolving type for handle ctsheetdata8408type
+26 Apr 2024 21:56:00 TRACE: Resolving type for handle ctrowdd39type
+26 Apr 2024 21:56:00 TRACE: Resolving type for handle ctcell842btype
+26 Apr 2024 21:56:00 TRACE: Resolving type for handle stcellrefe4e0type
+26 Apr 2024 21:56:11 TRACE: Resolving type for handle stcelltypebf95type
+26 Apr 2024 21:56:11 TRACE: Resolving type for handle stxstringf179type
+26 Apr 2024 21:56:18 INFO : SuccessFull
+26 Apr 2024 21:56:27 WARN : No Element Found
+26 Apr 2024 21:56:27 INFO : This the item is added to the cart
+26 Apr 2024 21:56:37 ERROR: Not Found
